@@ -1,2 +1,4 @@
 marketing
 accounting
+hr
+r&d
