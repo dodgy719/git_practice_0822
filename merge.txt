@@ -1,1 +1,2 @@
 merge conflict example starts here
+new material added to the merge file
